@@ -8,6 +8,6 @@
 
 How to use:
 </div>
-1. [ChromeDriver](https://chromedriver.storage.googleapis.com/index.html?path=105.0.5195.19/)<br>
+1. ChromeDriver<br>
 2. Google Chrome installed.<br>
 3. Latest version of python installed.
